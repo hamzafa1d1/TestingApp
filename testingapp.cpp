@@ -12,6 +12,7 @@ int main() {
     int sum = num1 + num2;
     
     std::cout << "The sum of " << num1 << " and " << num2 << " is: " << sum << std::endl;
+    cout << "hello"<<endl; 
     
     return 0;
 }
